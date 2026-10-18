@@ -288,6 +288,6 @@ HTML-звіт `coverage/shop-utils.js.html` показав невиконани�
 Для виконання лабораторної роботи створено гілку **`lb3`**.
 
 
-![alt text](image.png)
+![Рисунок 13 - Деталізація shop-utils.js після доповнення тестів](screenshots/10-git.png)
 
 
